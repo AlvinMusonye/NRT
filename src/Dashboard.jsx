@@ -36,7 +36,7 @@ export default function Portfolio() {
             Showcase
           </a>
           <a href="#contact" className="hover:underline">
-            Contact
+            Donate
           </a>
         </nav>
       </header>
