@@ -11,7 +11,7 @@ export default function Portfolio() {
         <div className="flex items-center justify-between w-full md:w-auto">
           <div className="flex items-center gap-4 cursor-pointer">
             <img src="/logo.png" alt="NRT Logo" className="h-12" />
-            <h1 className="text-2xl sm:text-3xl font-bold">Northern Rangelands Trust</h1>
+            <h1 className="text-2xl sm:text-3xl font-bold">Northern Rangelands <strong className="text-yellow-500">Trust</strong></h1>
           </div>
           
           <button
